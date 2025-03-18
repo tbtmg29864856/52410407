@@ -1,3 +1,4 @@
+while (rs.next())
 props.load(fs);
 BufferedWriter out = null;
 PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
