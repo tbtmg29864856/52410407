@@ -1,4 +1,5 @@
 BufferedWriter out = null;
+BufferedWriter out = null;
 while (rs.next())
 while (rs.next())
 props.load(fs);
