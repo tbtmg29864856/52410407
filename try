@@ -1,3 +1,4 @@
+// error processing code
 public static void main(String[] args)
 ps.close();
 rs.close();String url = props.getProperty("db.url");
