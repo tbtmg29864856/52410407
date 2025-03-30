@@ -1,3 +1,4 @@
+test.init();
 // error processing code
 public static void main(String[] args)
 ps.close();
